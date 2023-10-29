@@ -29,3 +29,8 @@ header {
     width: 250px;
     padding: 10px;
 }
+
+.song-title {
+    font-size: 18px;
+    margin-top: 10px;
+}
